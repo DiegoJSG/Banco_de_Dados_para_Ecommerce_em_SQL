@@ -1,5 +1,4 @@
 # Banco de Dados para Ecommerce em SQL 
-> ### Description in english below
 
 Este código representa um sistema de banco de dados para uma loja online. Ele mantém informações sobre clientes, produtos e pedidos, além de rastrear estoque, fornecedores e vendedores.
 
@@ -39,9 +38,7 @@ Contém consultas para análises básicas.
 Este código pode ser usado como base para construir um sistema de e-commerce simples, permitindo o controle de produtos, pedidos e 
 informações dos envolvidos, com a possibilidade de realizar análises através de consultas SQL.
 
-### Description in english: 
-
-# E-commerce Database
+## Description in english: 
 
 This code represents a database system for an online store. It maintains information about customers, products, and orders, while also tracking inventory, suppliers, and vendors.
 
